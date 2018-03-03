@@ -1,5 +1,11 @@
 # Yosgo AWS Lambda Utils
 
+## Installation
+
+```
+> yarn add labmda-utils-aws
+```
+
 ## Utils
 
 * constant
