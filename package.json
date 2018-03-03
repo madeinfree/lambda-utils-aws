@@ -1,0 +1,7 @@
+{
+  "name": "lambda-utils-aws",
+  "version": "1.0.2",
+  "main": "index.js",
+  "keywords": ["aws", "lambda", "aws-lambda", "aws-lambda-utils"],
+  "license": "MIT"
+}
