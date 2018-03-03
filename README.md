@@ -12,6 +12,8 @@ Create a default response JSON to reuseful the response for callback function.
 
 #### default
 
+* headers:
+  * Content-Type: application/json
 * statusCode: 200
 * message: ''
 * payload: {}
@@ -48,3 +50,7 @@ exports.handler = (event, context, callback) => {
   });
 };
 ```
+
+### License
+
+MIT
